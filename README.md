@@ -1,3 +1,10 @@
+# Personal notes:
+
+Strategy in indicators.py lists:
+HEIKIN and eventually: Ema_26, Ema_12, macd_value
+
+# Read me
+
 install python 3.4
 
 install virtualenv
