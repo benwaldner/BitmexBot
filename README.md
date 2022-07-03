@@ -1,7 +1,7 @@
 # Personal notes:
 
 Strategy in indicators.py lists:
-HEIKIN and eventually: Ema_26, Ema_12, macd_value
+HEIKIN (Heikin-Ashi) and eventually: Ema_26, Ema_12, macd_value
 
 # Read me
 
